@@ -1,0 +1,10 @@
+path: /home/patricia256-ug/Coffee_Harvest_Readiness/datasets/processed/coffee_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Unripe
+  1: Ripening
+  2: Ripe
+  3: Spoilt

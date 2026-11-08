@@ -1,0 +1,17 @@
+Project: Coffee Harvest Readiness Estimation
+Model: YOLOv8m
+Classes: Unripe, Ripening, Ripe, Spoilt
+Image size: 640
+Training epochs completed: 27
+Training device: CPU
+Test images: 442
+Precision: 58.25%
+Recall: 32.33%
+mAP50: 30.52%
+mAP50-95: 12.19%
+
+Best checkpoint (not included):
+weights/deadline_backup/best.pt
+
+Dataset images (not included):
+datasets/processed/coffee_yolo/

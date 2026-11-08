@@ -1,0 +1,23 @@
+# Datasets
+datasets/**/*.jpg
+datasets/**/*.jpeg
+datasets/**/*.png
+datasets/**/*.txt
+datasets/**/*.zip
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+weights/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+coffee_env/
+
+# Training outputs and caches
+*.cache
+runs/
